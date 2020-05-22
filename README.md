@@ -6,9 +6,9 @@ It is used to store items in an online drive across the blockchain of the Ganach
 
  <big> Output: </big><br>
  
- <img src="Images\1.jpg" height=400 width=600><br> 
- <img src="Images\2.jpg" height=400 width=600><br>
- <img src="Images\3.jpg" height=400 width=600><br>
- <img src="Images\4.jpg" height=400 width=600><br>
- <img src="Images\5.jpg" height=400 width=600><br>
-<img src="Images\6.jpg" height=400 width=600><br>
+ <img src="Images\1.jpg" height=300 width=600><br> 
+ <img src="Images\2.jpg" height=300 width=600><br>
+ <img src="Images\3.jpg" height=300 width=600><br>
+ <img src="Images\4.jpg" height=300 width=600><br>
+ <img src="Images\5.jpg" height=300 width=600><br>
+<img src="Images\6.jpg" height=300 width=600><br>
